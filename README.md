@@ -2,6 +2,7 @@
 A simple crawler for http://www.visions.ca/Default.aspx using scrapy-framework
 
 ### USAGE: 
+cd simpleCrawler/crawler
 scrapy crawl visions.ca
 
 ###OUTPUT:
